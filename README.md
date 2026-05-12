@@ -146,7 +146,6 @@ Collaborative study rooms
 Adaptive revision algorithms
 Real-time performance analytics
 Gamified leaderboard system
-📸 Preview
 
 “The engineering math operating system.”
 
